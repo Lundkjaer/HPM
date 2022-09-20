@@ -1,0 +1,14 @@
+space_name,space_id,str_acc,sun_acc
+lobby,0,1,0.2
+admin_1,1,0.5,0.5
+admin_2,2,0.5,0.5
+gym,3,0.3,0.3
+cafeteria,4,0.3,0.3
+classroom_1,5,0.1,0.9
+classroom_2,6,0.1,0.9
+classroom_3,7,0.1,0.9
+classroom_4,8,0.1,0.9
+classroom_5,9,0.1,0.9
+classroom_6,10,0.1,0.9
+classroom_7,11,0.1,0.9
+classroom_8,12,0.1,0.9
